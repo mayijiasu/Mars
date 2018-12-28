@@ -6,8 +6,8 @@ Mars VPN
 
 最新版下载地址：
 - [官网](https://www.marsvpn.net) 
-- [Android下载](http://www.baidu.com) 
-- [IOS下载](http://www.baidu.com) 
+- [Android下载](http://marsoss.fastercms.com/apk/marsvpn-1.0.0.apk) 
+- [IOS下载](https://marsvpn.oss-cn-shanghai.aliyuncs.com/ipa/ios.plist)
 
 ## Mars能用来做什么：
 - 可流畅访问Google、YouTube等网站
