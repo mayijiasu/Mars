@@ -5,6 +5,7 @@ Mars VPN
 ------
 
 最新版下载地址：
+- [官网](https://www.marsvpn.net) 
 - [Android下载](http://www.baidu.com) 
 - [IOS下载](http://www.baidu.com) 
 
