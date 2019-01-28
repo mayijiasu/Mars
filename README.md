@@ -6,7 +6,7 @@ Mars VPN
 
 最新版下载地址：
 - [官网](https://www.marsvpn.net/share) 
-- [Android下载](https://marsvpn.oss-cn-shanghai.aliyuncs.com/apk/1.0.2/marsvpn-1.0.2_share.apk)
+- [Android下载](https://marsoss.xcxymz.com/1.0.2/marsvpn-1.0.2_share.apk)
 - IOS仅支持官网下载安装(微信请点击右上角，弹出菜单选择“在safari中”打开)
 
 ## Mars能用来做什么：
